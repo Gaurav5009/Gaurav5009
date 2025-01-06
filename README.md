@@ -3,7 +3,7 @@
 <h3 align="left">Currently working as a developer at <a href="https://vicharak.in">Vicharak</a></h3>
 
 
-![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravpaliwal&theme=gruvbox&layout=compact)
+![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav5009&theme=gruvbox&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=gaurav5009&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
